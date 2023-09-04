@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Kumar
-- 👀 I’m interested in Software developement
-- 🌱 I’m currently learning front end backend and machine learning development
+- 👀 I’m interested in Software developement with
+- 🌱 I’m currently working as a developer having 2+ years of experience in developing full stack webapp, ML models and backend data loaders pipeline.
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...drop a mail on abhishek.karyan16@gmail.com
 
