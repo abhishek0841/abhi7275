@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Abhishek Kumar
-- 👀 I’m interested in Software developement with
-- 🌱 I’m currently working as a developer having 2+ years of experience in developing full stack webapp, ML models and backend data loaders pipeline.
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me ...drop a mail on abhishek.karyan16@gmail.com
+Experienced Machine Learning Engineer with 2.8+ years of hands-on expertise in leveraging machine learning and AI to optimise customer service experiences. With a background in anomaly detection and predictive modeling, I've honed expertise in algorithms, statistical modelling, NLP, LLM, GPT 3.5 and deep learning architectures. As a Teaching Assistant at IIIT Allahabad cultivated my passion for imparting knowledge across diverse computer science domains. Published researcher, skilled in Python, SQL, TensorFlow, and more, driving impactful solutions in complex tech landscapes. 
 
-<!---
-abhi7275/abhi7275 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Eager to collaborate, innovate, and contribute within dynamic AI-driven environments.
