@@ -1,7 +1,13 @@
-Engineer with over 3 years of experience in developing and optimizing data pipelines for large-scale data processing. Proficient in Python, SQL, and Spark, I specialize in building scalable solutions that enhance processing efficiency and system performance. My expertise includes managing substantial datasets, ensuring data integrity, and implementing data security measures in compliance with GDPR.
+🔍 Driving Business Decisions with Data, Experiments, and Scalable Analytics
 
-I have a proven track record of reducing processing times by 30% through optimized data handling scripts and effectively managing 35 TB of data. Currently, I am focused on migrating in-house data warehouses and engineering pipelines to Google Cloud Platform (GCP) to drive scalability and performance improvements.
+As a Data Scientist at TCS (R&D), I work at the intersection of customer insights, experimentation, and scalable analytics. My focus is on building systems that turn messy, real-world data into actionable insights — from call center sentiment to product engagement metrics.
 
-I thrive in collaborative environments, working closely with cross-functional teams to convert complex business requirements into technical solutions that deliver actionable insights.
+🎯 Highlights of My Work:
+• Automated Sentiment Analysis: Designed a system analyzing 250K+ customer interactions daily using NLP models (TF-IDF + XGBoost), replacing manual surveys and informing credit operations across 20+ countries.
+• KPI-Driven Dashboards: Partnered with product and ops teams to define key metrics and build dashboards that track agent performance and customer satisfaction.
+• A/B Testing & Forecasting: Led multilingual experiments to improve model accuracy in LATAM regions and deployed time-series anomaly detection (Prophet) to flag drops in satisfaction before they became escalations.
+• End-to-End Analytics: From ETL in Spark/Python to visualization in QuickSight and Streamlit — I’ve worked across the stack to support timely, data-informed decisions.
 
-Eager to collaborate, innovate, and contribute within dynamic data-driven environments.
+I enjoy working on real-world problems where analytics meet product thinking. Looking forward to roles that blend experimentation, stakeholder collaboration, and impactful storytelling through data.
+
+Let’s connect!
