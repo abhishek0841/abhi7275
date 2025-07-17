@@ -1,13 +1,49 @@
-🔍 Driving Business Decisions with Data, Experiments, and Scalable Analytics
+# 🔍 Driving Business Decisions with Data, Experiments, and Scalable ML Pipelines
 
-As a Data Scientist at TCS (R&D), I work at the intersection of customer insights, experimentation, and scalable analytics. My focus is on building systems that turn messy, real-world data into actionable insights — from call center sentiment to product engagement metrics.
+Hi, I’m Abhishek Kumar — a Data Scientist with 4 years of experience at TCS (Research & Innovation Unit).  
+I specialize in bridging business strategy, experimentation, and machine learning to deliver real-world impact — from customer insights to product optimization.
 
-🎯 Highlights of My Work:
-• Automated Sentiment Analysis: Designed a system analyzing 250K+ customer interactions daily using NLP models (TF-IDF + XGBoost), replacing manual surveys and informing credit operations across 20+ countries.
-• KPI-Driven Dashboards: Partnered with product and ops teams to define key metrics and build dashboards that track agent performance and customer satisfaction.
-• A/B Testing & Forecasting: Led multilingual experiments to improve model accuracy in LATAM regions and deployed time-series anomaly detection (Prophet) to flag drops in satisfaction before they became escalations.
-• End-to-End Analytics: From ETL in Spark/Python to visualization in QuickSight and Streamlit — I’ve worked across the stack to support timely, data-informed decisions.
+---
 
-I enjoy working on real-world problems where analytics meet product thinking. Looking forward to roles that blend experimentation, stakeholder collaboration, and impactful storytelling through data.
+## 📌 What I Do
 
-Let’s connect!
+I design and build systems that transform raw, messy data into business outcomes — whether it’s enhancing user journeys, optimizing marketing spend, or scaling ML pipelines into production.
+
+---
+
+## 🧠 Core Highlights
+
+- 🧠 **ML Systems at Scale**  
+  Built and deployed multilingual sentiment analysis models (TF-IDF + XGBoost) analyzing 250K+ daily interactions across 5 countries — automating feedback loops and reducing survey cost.
+
+- 📊 **Product & KPI Analytics**  
+  Partnered with Product and Ops teams to define metrics, run A/B tests, and deploy dashboards tracking performance of 5,000+ customer support agents.
+
+- 🔁 **A/B Testing + Forecasting**  
+  Led controlled experiments to improve model performance in LATAM. Implemented Prophet-based anomaly detection for proactive CSAT monitoring.
+
+- ⚙️ **End-to-End ML Pipelines**  
+  Designed scalable ETL pipelines using Spark + Python, orchestrated workflows, and deployed models using Streamlit, Docker, and AWS.
+
+- 🧪 **Experimentation & Decision Science**  
+  Worked with cross-functional teams to run experiments, derive insights, and make data-driven product decisions across credit and contact center products.
+
+---
+
+## 🚀 What I’m Looking For
+
+I'm passionate about building analytics and ML systems that drive product growth.  
+Actively exploring roles in:
+
+- 🎯 **Product Analytics / Experimentation**
+- 🤖 **Data Science & ML Engineering**
+- 📦 **End-to-End ML Systems & Deployment**
+- 📊 **Analytics Engineering / Business Intelligence**
+
+---
+
+📫 **Let’s Connect**
+
+Whether you're hiring, collaborating, or just want to jam on analytics systems and ML experiments — I’m always up for a good conversation.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek72) • 📧 abhishek.karyan16@gmail.com
