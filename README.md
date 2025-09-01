@@ -46,4 +46,4 @@ Actively exploring roles in:
 
 Whether you're hiring, collaborating, or just want to jam on analytics systems and ML experiments — I’m always up for a good conversation.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek72) • 📧 abhishek.karyan16@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek72) • 📧 iamabhishek841@gmail.com
